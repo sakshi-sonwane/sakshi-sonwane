@@ -79,7 +79,7 @@ Here are my top projects where I've blended design thinking with front-end devel
 
 | Streak Stats |
 | :---: |
-| [![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=sakshi-sonwane&theme=tokyonight&hide_border=true)](https://git.io/streak-stats) |
+| [![GitHub Streak](https://streak-stats.demolab.com?user=sakshi-sonwane&hide_border=true)](https://git.io/streak-stats) |
 
 ---
 
