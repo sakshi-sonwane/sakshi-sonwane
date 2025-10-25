@@ -88,8 +88,8 @@ Here are my top projects where I've blended design thinking with front-end devel
 I'm always open to discussing new opportunities, design challenges, or front-end collaboration. Feel free to reach out!
 
 * **Email**: sakshisonwane1947@gmail.com
-* **Portfolio/Behance**: https://www.behance.net/sakshisonwane
-* **LinkedIn**: https://www.linkedin.com/in/sakshi-sonwane-ab45a82bb/
+* **Portfolio/Behance**: [sakshisonwane](https://www.behance.net/sakshisonwane)
+* **LinkedIn**: [sakshi-sonwane](https://www.linkedin.com/in/sakshi-sonwane-ab45a82bb/)
 * **GitHub**: [Sakshi Sonwane](https://github.com/sakshi-sonwane)
 
 <p align="center">
