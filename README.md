@@ -75,11 +75,11 @@ Here are my top projects where I've blended design thinking with front-end devel
 
 | GitHub Stats | Top Languages |
 | :---: | :---: |
-| [![Esi10's GitHub stats](https://github-readme-stats.vercel.app/api?username=Esi10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/Esi10) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Esi10&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Esi10) |
+| [![sakshi-sonwane's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakshi-sonwane&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/sakshi-sonwane) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakshi-sonwane&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/sakshi-sonwane) |
 
 | Streak Stats |
 | :---: |
-| [![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=Esi10&theme=tokyonight&hide_border=true)](https://git.io/streak-stats) |
+| [![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=sakshi-sonwane&theme=tokyonight&hide_border=true)](https://git.io/streak-stats) |
 
 ---
 
@@ -88,10 +88,10 @@ Here are my top projects where I've blended design thinking with front-end devel
 I'm always open to discussing new opportunities, design challenges, or front-end collaboration. Feel free to reach out!
 
 * **Email**: sakshisonwane1947@gmail.com
-* **Portfolio/Behance**: [sakshisonwane](https://www.behance.net/sakshisonwane)
-* **LinkedIn**: [sakshi-sonwane](https://www.linkedin.com/in/sakshi-sonwane-ab45a82bb/)
+* **Portfolio/Behance**: [behance.net](https://www.behance.net/sakshisonwane)
+* **LinkedIn**: [Linkedin.in](https://www.linkedin.com/in/sakshi-sonwane-ab45a82bb/))
 * **GitHub**: [Sakshi Sonwane](https://github.com/sakshi-sonwane)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Esi10&color=blueviolet" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=sakshi-sonwane&color=blueviolet" alt="Profile views">
 </p>
